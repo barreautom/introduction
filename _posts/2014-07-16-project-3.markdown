@@ -7,5 +7,6 @@ alt: image-alt
 project-date: April 2021
 client: SAMSIC 
 category: Web Development
-description: -Implementation and development of an invoice and data retrieval API ( API Platform, PHP Symfony, mySQL)
+description: Implementation and development of an invoice and data retrieval API ( API Platform, PHP Symfony, mySQL) 
+Development of a web service for API consumption and data implementation ( React JS, Javascript, Nginx )
 ---
