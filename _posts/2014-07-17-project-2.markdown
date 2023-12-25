@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
+title: Current Work
 img: cake.png
 alt: image-alt
 project-date: October 2022
