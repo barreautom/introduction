@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cake.png
 alt: image-alt
-project-date: April 2022
-client: Sopra Steria / Orange Business Services
+project-date: October 2022
+client:  Sopra Steria / Air France KLM
 category: Full Stack development
-description: Participation aux développements d’une application de détection de fraude (Java Spring, Lombok, Tests unitaires & intégration, Bitbucket, Oracle DB) dans un environnement international et agile. Migration d’écrans et graphiques de données (AngularJS vers Angular, mise à disposition d’API). Contrôle complet du déploiement continu et de la mise en production sur serveur client (Bamboo, COMO, ElasticSearch, Kafka) 
+description: Participated in the development of a fraud detection application (Java Spring, Lombok, unit testing & integration, Bitbucket, Oracle DB) in an international, agile environment. Migration of screens and data graphs (AngularJS to Angular, provision of APIs). Full control of continuous deployment and production launch on client server (Bamboo, COMO, ElasticSearch, Kafka).
 ---
