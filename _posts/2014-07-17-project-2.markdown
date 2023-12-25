@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-16
-img: cabin.png
+modal-id: 1
+date: 2014-07-18
+img: cake.png
 alt: image-alt
-project-date: October 2022
-client: Sopra Steria / Air France
-description: Participation in the development of a complete application redesign (Java Spring, Javascript, Jenkins, Gitlab CI, DevOps delivery & installation). Treatment and assistance to the customer support resolutions of bugs and evolutions. Supporting the teams in the transformation of the delivery model to India
+project-date: April 2022
+client: Sopra Steria / Orange Business Services
+category: Full Stack development
+description: Participation aux développements d’une application de détection de fraude (Java Spring, Lombok, Tests unitaires & intégration, Bitbucket, Oracle DB) dans un environnement international et agile. Migration d’écrans et graphiques de données (AngularJS vers Angular, mise à disposition d’API). Contrôle complet du déploiement continu et de la mise en production sur serveur client (Bamboo, COMO, ElasticSearch, Kafka) 
 ---
-s
